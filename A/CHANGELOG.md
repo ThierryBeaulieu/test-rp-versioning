@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/ThierryBeaulieu/test-rp-versioning/compare/moduleA-v2.0.0...moduleA-v2.1.0) (2026-07-03)
+
+
+### Features
+
+* **A:** [CDC-123] Add random text in the file ([5fc0960](https://github.com/ThierryBeaulieu/test-rp-versioning/commit/5fc0960fe71bdd64da2b094bc30880d53ad8afb7))
+* **A:** [CDC-123] Add random text in the file ([01b9d53](https://github.com/ThierryBeaulieu/test-rp-versioning/commit/01b9d53a98cc6865404fc9f24306a8dd3a22e55b))
+
 ## [2.0.0](https://github.com/ThierryBeaulieu/test-rp-versioning/compare/moduleA-v1.0.0...moduleA-v2.0.0) (2026-07-03)
 
 
